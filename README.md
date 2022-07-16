@@ -8,3 +8,4 @@ git push [origin] master
 
 
 git reset [file_name] - убирает файл из проиндексированных
+git reset --hard - отменяет изменения в файлах
